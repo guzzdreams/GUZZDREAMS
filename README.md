@@ -18,8 +18,7 @@
       padding: 1em;
       display: flex;
       justify-content: space-between;
-      align-items: center;
-    }
+      align-items: center; }
 
     header h1 {
       font-size: 1.5em;
