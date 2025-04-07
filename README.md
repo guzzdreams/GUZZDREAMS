@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>Bienvenidos a Guzzdreams</h1>
+    <h1>Bienvenidos a GUZZDREAMS</h1>
     <nav>
       <ul>
         <li><a href="#jeans">Jeans</a></li>
@@ -59,7 +59,7 @@
     <ul>
       <li><a href="https://wa.me/541132113760" target="_blank">WhatsApp</a></li>
       <li><a href="#">Instagram</a></li>
-      <li><a href="#">TikTok</a></li>
+      <li><a href="#">Facebook</a></li>
     </ul>
   </footer>
 </body>
